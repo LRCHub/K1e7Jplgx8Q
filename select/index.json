@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "つよがりアルマジロ",
+  "base_artist": "hockrockb",
+  "createdAt": "2026-01-13T16:18:57.428416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "つよがりアルマジロ",
+      "artist": "hockrockb",
+      "has_synced": false,
+      "path": "select/pl_01_つよがりアルマジロ_hockrockb.txt"
+    }
+  ]
+}
